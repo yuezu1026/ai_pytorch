@@ -1,3 +1,7 @@
+### 关于conda的学习总结
+ 查看有多少虚拟环境 conda env list
+ 所有某个包有那些版本： conda search matplotlib
+
 ### 关于pytorch的学习和研究
 1. 如何让代码能执行带cuda上
 
